@@ -14,4 +14,4 @@ Tableau: For interactive data visualization and dashboard creation.
 
 Link to Tableau: https://public.tableau.com/app/profile/yusuf.kelashipour/viz/Covid19Analysis_17259768018990/Dashboard1
 
-Yusuf Kelashipour 2024.
+Yusuf Kelashipour 2024
